@@ -9,7 +9,8 @@ This project was developed using Deepseek.com. There might be some deficiencies,
 ### 1. Default Information
 1. Default student account: `student ID`, default student password: `s123456`
 2. Default admin account: `admin`, default admin password: `123456`
-3. Default logout password: `same as admin password` ---
+3. Default logout password: `same as admin password`
+---
 Please be sure to change the administrator password.
 ### 2. Running Methods (Change `main` to the actual file name)
 #### 1. Source Code Method
@@ -17,7 +18,8 @@ Please be sure to change the administrator password.
 2. Enter the command `python main.py`.
 #### 2. Binary Method
 1. Switch the command line working directory to the binary file storage path.
-2. Enter the command `./main`. ---
+2. Enter the command `./main`.
+---
 ### 3. Permissions
 1. Administrator ! [](images/001.jpeg)
 2. Student ! [](images/002.png)
@@ -63,4 +65,5 @@ Stored in the current location as `data.json`
 When an administrator logs out of the system, they may have made changes. Therefore, an administrator needs to confirm their password when logging out of the system. ! [](images/003.png)
 ## 3. Support
 1. If you are interested in this project, please feel free to give it a star.
+
 2. If you want to support this project, you are welcome to submit issues or pull requests.
