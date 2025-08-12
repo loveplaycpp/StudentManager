@@ -1,5 +1,5 @@
 # StudentManager / 学生成绩管理系统
-<h4 align="right"><a href="https://github.com/tw93/Pake">English</a> | <strong>简体中文</strong>
+<h4 align="right"><a href="README_EN.md">English</a> | <strong>简体中文</strong>
 
 ## 1. 前言
 本项目有我使用Deepseek.com，可能有些不足，许BUG或想要的功能可提交IUSSES或PR。本项目仅在Docker镜像`deepnote/python:3.9`下测试，其他平台我没有测试，提交PR时请在此镜像测试好，感谢。此代码无任何限制，可随意拿取，但别忘了给一个STAR
@@ -28,7 +28,7 @@
 存储在当前位置的`data.json`
 #### 2. 存储格式
 示例
-```
+```json
 {
   "students": {
     "001": {
