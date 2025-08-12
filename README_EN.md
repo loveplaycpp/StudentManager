@@ -5,6 +5,7 @@
 This project was developed using Deepseek.com. There might be some deficiencies, bugs or missing features. If you find any, please submit them as issues or pull requests. This project has only been tested on the Docker image `deepnote/python:3.9`. I haven't tested it on other platforms. Please test it on this image before submitting a pull request. Thank you. This code is free of any restrictions and can be taken at will, but don't forget to give it a star.
 
 ## 2. Usage Instructions
+### Note that when using the binary version, you cannot exit directly using Ctrl+C, otherwise it will cause a console input error. If encountered, please restart the terminal!
 ### 1. Default Information
 1. Default student account: `student ID`, default student password: `s123456`
 2. Default admin account: `admin`, default admin password: `123456`
