@@ -2,7 +2,7 @@
 <h4 align="right"><a href="README_EN.md">English</a> | <strong>简体中文</strong>
 
 ## 1. 前言
-本项目有我使用Deepseek.com，可能有些不足，许BUG或想要的功能可提交IUSSES或PR。本项目仅在Docker镜像`deepnote/python:3.9`下测试，其他平台我没有测试，提交PR时请在此镜像测试好，感谢。此代码无任何限制，可随意拿取，但别忘了给一个STAR
+本项目有我使用Deepseek.com，可能有些不足，如果遇到BUG或有想要的功能可提交IUSSES或PR。本项目仅在Docker镜像`deepnote/python:3.9`下测试，其他平台我暂时没有测试，提交PR时请在此镜像测试好，感谢。此代码无任何限制，可随意拿取，但别忘了给一个STAR
 ## 2. 使用方法
 ### 注意，使用二进制版不可以使用Ctrl + C直接退出，否则会引发控制台不能输入BUG，如遇到，请重启终端！
 ### 1. 默认信息

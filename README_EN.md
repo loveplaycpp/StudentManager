@@ -2,7 +2,7 @@
 <h4 align="right"><strong>English</strong> | <a href="README.md">简体中文</a>
 
 ## 1. Preface
-This project was developed using Deepseek.com. There might be some deficiencies, bugs or missing features. If you find any, please submit them as issues or pull requests. This project has only been tested on the Docker image `deepnote/python:3.9`. I haven't tested it on other platforms. Please test it on this image before submitting a pull request. Thank you. This code is free of any restrictions and can be taken at will, but don't forget to give it a star.
+This project was developed by me using Deepseek.com, and there may be some shortcomings. If you encounter a BUG or have a desired function, you can submit ISSUES or Pull Requests. This project has only been tested under the Docker image `deepnote/python:3.9`, and I haven't tested it on other platforms for the time being. Please test it well under this image when submitting Pull Requests. Thank you. There are no restrictions on this code, and you can take it freely, but don't forget to give a STAR.
 
 ## 2. Usage Instructions
 ### Note that when using the binary version, you cannot exit directly using Ctrl+C, otherwise it will cause a console input error. If encountered, please restart the terminal!
