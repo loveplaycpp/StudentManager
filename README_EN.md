@@ -21,8 +21,10 @@ Please be sure to change the administrator password.
 2. Enter the command `./main`.
 ---
 ### 3. Permissions
-1. Administrator ! [](images/001.jpeg)
-2. Student ! [](images/002.png)
+1. Administrator
+![](images/001.jpeg)
+2. Student
+![](images/002.png)
 ### 4. File Storage
 #### 1. File Storage Format and Location
 Stored in the current location as `data.json`
@@ -62,7 +64,8 @@ Stored in the current location as `data.json`
 "role": Role, "admin" for administrator, "student" for student 
 ```
 ### 5. Log Out of the System
-When an administrator logs out of the system, they may have made changes. Therefore, an administrator needs to confirm their password when logging out of the system. ! [](images/003.png)
+When an administrator logs out of the system, they may have made changes. Therefore, an administrator needs to confirm their password when logging out of the system.
+![](images/003.png)
 ## 3. Support
 1. If you are interested in this project, please feel free to give it a star.
 
